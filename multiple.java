@@ -1,3 +1,2 @@
-public class multiple{
-
-}
+status 1
+status 2
